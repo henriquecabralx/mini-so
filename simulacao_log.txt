@@ -1,0 +1,39 @@
+=======================================================
+  Mini-SO  –  Log da Simulacao
+  Infraestrutura de Software – Projeto 2GQ
+  Iniciado em: Sun May 24 20:32:11 2026
+=======================================================
+
+[t=000s] PID 1 executou quantum (2s). Restam 8s.
+[t=002s] PID 2 executou quantum (2s). Restam 2s.
+[t=004s] PID 3 executou quantum (2s). Restam 4s.
+[t=006s] PID 4 ENCERRADO apos executar no t=6.
+[t=008s] PID 1 executou quantum (2s). Restam 6s.
+[t=010s] PID 2 ENCERRADO apos executar no t=10.
+[t=012s] PID 3 executou quantum (2s). Restam 2s.
+[t=014s] PID 1 executou quantum (2s). Restam 4s.
+[t=016s] PID 3 ENCERRADO apos executar no t=16.
+[t=018s] PID 1 executou quantum (2s). Restam 2s.
+[t=020s] PID 1 ENCERRADO apos executar no t=20.
+
+=======================================================
+  ESTADO FINAL DA MEMORIA RAM (1024 bytes)
+=======================================================
+  [Livre    | base=   0 | tamanho=1024B]
+
+  Bytes livres  : 1024
+  Bytes ocupados: 0
+
+=======================================================
+  RESUMO DOS PROCESSOS
+=======================================================
+  PID    Burst Tot  Burst Res  RAM(B)     Estado      
+  ------ ---------- ---------- ---------- ------------
+  1      10         0          200        ENCERRADO   
+  2      4          0          100        ENCERRADO   
+  3      6          0          512        ENCERRADO   
+  4      2          0          128        ENCERRADO   
+
+=======================================================
+  Simulacao encerrada.
+=======================================================
