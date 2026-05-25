@@ -1,3 +1,8 @@
+# UNIVERSIDADE CATÓLICA DE PERNAMBUCO
+<p align="center">
+   <img src="http://www1.unicap.br/icam/wp-content/uploads/2019/06/marca_nova.svg" />
+  </p>
+
 # Mini-SO — Simulador de Gerência de Processos e Memória
 
 > Projeto da disciplina **Infraestrutura de Software** — 2° Grau de Qualificação  
