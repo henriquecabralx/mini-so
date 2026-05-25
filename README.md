@@ -226,9 +226,3 @@ Mapa da RAM: [P1: 200B][P2: 100B][P3: 512B][Livre: 212B]
 | **Git** | Controle de versão — salva o histórico de mudanças no código |
 | **GitHub** | Plataforma online para guardar e compartilhar o código |
 
----
-
-## Autores
-
-Projeto desenvolvido em dupla para a disciplina de Infraestrutura de Software.  
-Profa. Monique Soares — Apresentação: 01/06/2026
